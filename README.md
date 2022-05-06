@@ -1,1 +1,1 @@
-# The-matrix
+Esse projeto é uma tentativa de recriar a interface de matrix, onde os codigos literalmente caem como chuva na tela, o projeto esta com alguns problemas, pois aparentemente a chuva não está sendo tão aleatória como desejado
